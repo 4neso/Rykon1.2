@@ -143,4 +143,7 @@ main form <br />
 
 <h4>Ver 1</h4><hr />
 <a href='www.softpedia.com/get/Internet/Servers/WEB-Servers/Rykon-Server.shtml' >softpedia</a><br />
+<a href='https://www.freedownloadify.org/news/446463/rykon-server-1-0-0-0-freeware' > freedownloadify </a> <br />
 <a href='https://www.dropbox.com/s/cvyo3pd3q1d44qz/Rykon.rar?dl=0' >Dropbox </a> <br />
+<a href='http://www.stahuj.centrum.cz/internet_a_site/servery/webove/rykon-server/' > stahuj </a> <br />
+
