@@ -8,7 +8,7 @@ A web server is an information technology that processes requests via HTTP, the 
 
 
 <h3> Name </h3>
-Rykon comes from czech sentence  "Rychlost a výkon" means "Speed and performance </br>
+Rykon comes from czech sentence  "Rychlost a vÃ½kon" means "Speed and performance </br>
 
 <h3> Building </h3>
 Development of Rykon began in 2016 by Team Fourneso as graduation project 
@@ -111,6 +111,7 @@ Application will choose another port and solve the flow <br />
 <hr/>
 <h2> Appearance </h2> </br>
 main form <br />
+<img src='http://i.imgur.com/uwdwwRN.png'  /><br/><br/><br/><hr/>
 
 <img src='http://i.imgur.com/2cLzkCR.png' /> <br/><br/><br/><hr/>
 
